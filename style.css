@@ -58,8 +58,8 @@ body{
     border-radius: 10px;
     cursor: pointer;
     width: 80%;
-    transition: all .2s ease-in-out;
-    
+    transition: all .2s ease-in-out; 
+    /* teste */
 }
 
 .button:hover{
